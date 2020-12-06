@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6a20a00-3d65-4ef7-8853-05521cc83897" name="Default Changelist" comment="" />
+    <list default="true" id="f6a20a00-3d65-4ef7-8853-05521cc83897" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tjetc/test/MailTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/looper/MailTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tjetc/test/MailTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/looper/MailTest2.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,55 +24,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tjetc/domain/Secondcategory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+            <state relative-caret-position="42">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tjetc/utils/MailUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/looper/MailTest.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tjetc/controller/ValidCodeController.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/looper/MailTest2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tjetc/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2058">
-              <caret line="111" column="36" selection-start-line="111" selection-start-column="36" selection-end-line="111" selection-end-column="36" />
+            <state relative-caret-position="273">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/index.jsp">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tjetc/service/impl/AdminPrivilegeServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="80" column="39" selection-start-line="80" selection-start-column="39" selection-end-line="80" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tjetc/service/impl/UserServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            <state relative-caret-position="269">
+              <caret line="91" column="5" lean-forward="true" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,11 +71,13 @@
       <dir>E:\SmartHomeApplication\bookShop-ssm\src</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/tjetc/service/AdminRoleService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/service/impl/AdminPrivilegeServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tjetc/service/impl/AdminRoleServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tjetc/service/AdminPrivilegeService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tjetc/controller/CartController.java" />
@@ -106,6 +92,33 @@
         <option value="$PROJECT_DIR$/src/main/resources/db.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/tjetc/controller/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/admin/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/service/impl/AdminPrivilegeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/Admin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/AdminExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/AdminRoleExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/AdminRoleKey.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/Cart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/CartItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/Category.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/CategoryExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/Orderitem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/OrderitemExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/Orders.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/OrdersExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/Privilege.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/PrivilegeExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/ProductExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/Role.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/RoleExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/RolePrivilegeKey.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/Secondcategory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/RolePrivilegeExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/SecondcategoryExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tjetc/domain/UserExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/looper/domain/MailTest2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/looper/MailTest2.java" />
       </list>
     </option>
   </component>
@@ -135,11 +148,13 @@
     <option name="width" value="1715" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,7 +204,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tjetc" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SmartHomeApplication" type="b2602c69:ProjectViewProjectNode" />
@@ -209,22 +224,35 @@
               <item name="SmartHomeApplication" type="b2602c69:ProjectViewProjectNode" />
               <item name="SmartHomeApplication" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SmartHomeApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SmartHomeApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SmartHomeApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SmartHomeApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="looper" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/looper/domain" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -235,6 +263,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SmartHomeApplication\SmartHomeApplication\src\test\java\com\looper\domain" />
       <recent name="E:\SmartHomeApplication\bookShop-ssm\src\main\webapp\admin" />
       <recent name="E:\SmartHomeApplication\bookShop-ssm\src\main\webapp\upload" />
       <recent name="E:\SmartHomeApplication\bookShop-ssm\src\main\webapp\image" />
@@ -346,13 +375,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29464000" />
+    <option name="totallyTimeSpent" value="29660000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49707603" visible="true" weight="0.22050938" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49707603" visible="true" weight="0.22319035" />
       <window_info id="Structure" order="1" sideWeight="0.50292397" side_tool="true" weight="0.21782842" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -361,7 +390,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" sideWeight="0.50066936" side_tool="true" weight="0.21179625" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.20241287" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31325302" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -389,16 +418,49 @@
       <window_info anchor="right" id="Theme Preview" order="10" />
       <window_info anchor="right" id="Key Promoter X" order="11" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49707603" visible="true" weight="0.22319035" />
+      <window_info id="Structure" order="1" sideWeight="0.50292397" side_tool="true" weight="0.21782842" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.50066936" side_tool="true" weight="0.21179625" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31325302" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32931727" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32931727" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.4283802" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32931727" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.24329759" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="leetcode" order="5" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Word Book" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Key Promoter X" order="11" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-665" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -444,13 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tjetc/service/impl/AdminPrivilegeServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1344">
-          <caret line="79" column="41" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -682,6 +737,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="491">
           <caret line="80" column="39" selection-start-line="80" selection-start-column="39" selection-end-line="80" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tjetc/domain/Secondcategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tjetc/test/MailTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/looper/MailTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/looper/MailTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tjetc/service/impl/AdminPrivilegeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="91" column="5" lean-forward="true" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

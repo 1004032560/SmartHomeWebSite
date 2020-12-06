@@ -78,7 +78,7 @@ body {
         </div>
       </form>
     </div>
-    <p class="copyright">Copyright 2015-2016 by XIAODU</p>
+    <p class="copyright">Copyright 2019-2020 by looper</p>
   </div>
 </div>
 </body>
