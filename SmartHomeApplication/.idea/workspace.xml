@@ -6,7 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6a20a00-3d65-4ef7-8853-05521cc83897" name="Default Changelist" comment="" />
+    <list default="true" id="f6a20a00-3d65-4ef7-8853-05521cc83897" name="Default Changelist" comment="发送邮件测试" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -139,7 +139,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="125" />
     <option name="y" value="15" />
     <option name="width" value="1715" />
@@ -158,11 +158,6 @@
             <path>
               <item name="SmartHomeApplication" type="b2602c69:ProjectViewProjectNode" />
               <item name="SmartHomeApplication" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SmartHomeApplication" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SmartHomeApplication" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -306,11 +301,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29918000" />
+    <option name="totallyTimeSpent" value="30835000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49707603" visible="true" weight="0.22319035" />
       <window_info id="Structure" order="1" sideWeight="0.50292397" side_tool="true" weight="0.21782842" />
@@ -396,13 +390,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="发送邮件测试" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.10/pagehelper-5.1.10-sources.jar!/com/github/pagehelper/PageInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tjetc/controller/AdminCategoryController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -690,6 +677,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/images/login.gif">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tjetc/service/impl/AdminPrivilegeServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
