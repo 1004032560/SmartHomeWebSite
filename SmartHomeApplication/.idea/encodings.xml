@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/tjetc/controller/UserController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/tjetc/controller/ValidCodeController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/tjetc/domain/Cart.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/tjetc/utils/MailUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/admin/static" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/image/background01.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/image/background02.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/image/background03.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/upload/cs10001.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/upload/cs10002.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/upload/cs10003.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/upload/cs10004.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/upload/cs10005.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/upload/cs10006.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/upload/cs10007.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/upload/cs10008.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/upload/gl10001.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/upload/gl10002.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/upload/gl10003.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/upload/gl10004.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/upload/sb10001.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/upload/sb10002.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/upload/sb10003.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/upload/sb10004.jpg" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
