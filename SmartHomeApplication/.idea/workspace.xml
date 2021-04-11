@@ -6,11 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6a20a00-3d65-4ef7-8853-05521cc83897" name="Default Changelist" comment="发送邮件测试">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/oa/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/oa/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/SmartHomeProject.kotlin_module" beforeDir="false" />
-    </list>
+    <list default="true" id="f6a20a00-3d65-4ef7-8853-05521cc83897" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tjetc/service/impl/AdminPrivilegeServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-916">
-              <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+            <state relative-caret-position="218">
+              <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1294#1305#0" expanded="true" />
@@ -322,7 +318,7 @@
       <workItem from="1606096464632" duration="116000" />
       <workItem from="1606637057919" duration="5724000" />
       <workItem from="1606701299260" duration="81000" />
-      <workItem from="1617709457642" duration="1149000" />
+      <workItem from="1617709457642" duration="1787000" />
     </task>
     <task id="LOCAL-00001" summary="发送邮件测试">
       <created>1607239043904</created>
@@ -331,11 +327,18 @@
       <option name="project" value="LOCAL" />
       <updated>1607239043904</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="发送邮件测试">
+      <created>1617710833171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617710833171</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32589000" />
+    <option name="totallyTimeSpent" value="33227000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -351,7 +354,7 @@
       <window_info anchor="bottom" id="Educational.CheckDetails" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.57506704" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26487252" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26487252" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -702,8 +705,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tjetc/service/impl/AdminPrivilegeServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-916">
-          <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        <state relative-caret-position="218">
+          <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1294#1305#0" expanded="true" />
